@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 1014_SpringBoot_RestController_Logging_ELK
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jagadish.sanjeevi
+Implementation-Vendor-Id: com.accenture.lkm
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/1014_SpringB
+ oot_RestController_Logging_ELK/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

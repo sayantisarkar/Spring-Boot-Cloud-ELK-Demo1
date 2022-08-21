@@ -1,0 +1,6 @@
+execute the demo by using 
+clean install spring-boot:run
+
+and check how spring the configuration has been made for you 
+
+By default only info logs will come you can enable debug logs as well
